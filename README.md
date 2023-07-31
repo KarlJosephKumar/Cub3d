@@ -16,13 +16,13 @@ Screenshot of the gameplay.
 
 Keys:
 
-W key to move forward
+W key to move forward;
 
-A key to strafe left
+A key to strafe left;
 
-S key to move backwards
+S key to move backwards;
 
-D key to stafe right
+D key to stafe right;
 
 Left and right arrow to turn left and right.
 
